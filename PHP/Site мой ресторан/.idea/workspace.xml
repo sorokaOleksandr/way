@@ -1,108 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4932677b-8fa0-481c-b247-1c332401d3bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/images/img01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/images/img02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/images/img03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/images/img04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/images/img05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/style/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/10array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/11array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/12array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/13array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/14array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/15array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/16array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/17array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/18array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/19array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/1array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/20array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/21array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/22array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/23array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/24array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/27array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/28array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/2array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/3array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/4array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/5array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/6array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/7array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/8array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_loops_tasks/9array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/form_post/form_db_connect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/form_post/post_form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/form_post/post_form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/1/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/1/1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/10/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/10/10.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/11.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/12.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/13.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/2/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/2/2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/3/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/3/3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/3/file_N.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/9/9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/9/9.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/10.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/11.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/12.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/13.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/14.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/15.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/16.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/17.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/18.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/19.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/20.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/21.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/22.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/23.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/24.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/25.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/26.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php_basics_tasks/9.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/restart hard disc.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/html/admin_add_news.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/html/ptah_admin_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/html/ptah_admin_panel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/html/ptah_index1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/besplatnyie-kartinki-pro-lyubov1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/brand.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/gogol.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/metal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/mini_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/ploskaya-zemlya.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/images/skazka_lesnye_skazki.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/php/add_news.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/php/my_db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/php/ptah_admin_index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/style/ptah_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site_news_ptah/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_posle_hhd.php" afterPath="" />
-    </list>
+    <list default="true" id="4932677b-8fa0-481c-b247-1c332401d3bd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,17 +54,30 @@
       <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/AdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cake-1776661_640.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/images/cake-1776661_640.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/site/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="50" column="47" lean-forward="false" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -212,7 +124,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -257,11 +169,11 @@
         <option value="$PROJECT_DIR$/views/user/order.php" />
         <option value="$PROJECT_DIR$/views/admin/admin_Login.php" />
         <option value="$PROJECT_DIR$/models/Admin.php" />
-        <option value="$PROJECT_DIR$/controllers/AdminController.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/models/Product.php" />
         <option value="$PROJECT_DIR$/template/style/style.css" />
         <option value="$PROJECT_DIR$/views/catalog/page.php" />
+        <option value="$PROJECT_DIR$/controllers/AdminController.php" />
       </list>
     </option>
   </component>
@@ -293,102 +205,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Site мой ресторан" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site мой ресторан" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Site мой ресторан" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site мой ресторан" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="style" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Site мой ресторан" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site мой ресторан" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="loyouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="product" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="user" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -553,26 +391,26 @@
       <workItem from="1514155259541" duration="925000" />
       <workItem from="1520373458033" duration="109000" />
       <workItem from="1522091799972" duration="18000" />
+      <workItem from="1538871489537" duration="261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195728000" />
+    <option name="totallyTimeSpent" value="195989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20045386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -612,7 +450,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/ptah_style.css" />
     <entry file="file://$USER_HOME$/Desktop/developer php/содержимое htdocs/site_news_ptah_localhost/ptah_index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -644,27 +481,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/images/img02.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/images/img03.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/images/img04.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/template/images/img02.gif" />
+    <entry file="file://$PROJECT_DIR$/template/images/img03.gif" />
+    <entry file="file://$PROJECT_DIR$/template/images/img04.jpg" />
     <entry file="file://$PROJECT_DIR$/template/images/res02.jpg" />
-    <entry file="file://$PROJECT_DIR$/template/images/img01.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/template/images/img01.gif" />
     <entry file="file://$PROJECT_DIR$/components/Router.php" />
     <entry file="file://$PROJECT_DIR$/config/db_params.php" />
     <entry file="file://$PROJECT_DIR$/components/Autoload.php" />
@@ -767,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="50" column="47" lean-forward="false" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -834,14 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -869,11 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/images/cake-1776661_640.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/template/images/cake-1776661_640.jpg" />
     <entry file="file://$PROJECT_DIR$/template/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1921">
@@ -906,10 +708,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="50" column="47" lean-forward="false" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding />
         </state>
       </provider>
