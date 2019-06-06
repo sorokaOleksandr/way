@@ -15,7 +15,7 @@
 
 <div class="row" style="width: 60%; margin: auto; border: 1px dashed black">
     <div class="col-sm-4" style="background-color:lavender;">
-        <img  src="/template/images/<?php echo $announcements_List['photo']; ?>"  width="150px" height="150px"
+        <img  src="template/images/<?php echo $announcements_List['photo']; ?>"  width="150px" height="150px"
         hspace="5" vspace="7">
     </div>
     <div class="col-sm-8">
