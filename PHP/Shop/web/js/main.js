@@ -6,16 +6,67 @@
 	 speed: 300
  });
 
+ function showCart(cart) {
+ 	$('#cart .modal-body').html(cart);
+ 	$('#cart').modal();
+ }
+
+ function getCart(){
+     $.ajax({
+         url: '/cart/show',
+         type: 'GET',
+         success: function (res) {
+             if(!res) alert('Ошибка!');
+             showCart(res);
+         },
+         error: function () {
+             alert('Erorr!');
+         }
+     });
+     return false;
+ }
+
+ $('#cart .modal-body').on('click', '.del-item',  function () {
+	 var id = $(this).data('id');
+     $.ajax({
+         url: '/cart/del-item',
+         data: {id: id},
+         type: 'GET',
+         success: function (res) {
+             if(!res) alert('Ошибка!');
+             showCart(res);
+         },
+         error: function () {
+             alert('Erorr!');
+         }
+     });
+ });
+ 
+ function clearCart() {
+     $.ajax({
+         url: '/cart/clear',
+         type: 'GET',
+         success: function (res) {
+             if(!res) alert('Ошибка!');
+             showCart(res);
+         },
+         error: function () {
+             alert('Erorr!');
+         }
+     });
+ }
+
  $('.add-to-cart').on('click', function (e) {
 	 e.preventDefault();
-	 var id = $(this).data('id');
+	 var id = $(this).data('id'),
+         qty = $('#qty').val();
 	 $.ajax({
 		 url: '/cart/add',
-		 data: {id: id},
+		 data: {id: id, qty: qty},
 		 type: 'GET',
 		 success: function (res) {
 		 	if(!res) alert('Ошибка!');
-			 console.log(res);
+			 showCart(res);
          },
 		 error: function () {
 			 alert('Erorr!');

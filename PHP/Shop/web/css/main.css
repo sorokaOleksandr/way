@@ -1190,6 +1190,10 @@ h2.title {
   width: 100%;*/
 }
 
+.del-item {
+  cursor: pointer;
+}
+
 .view-product h3 {
   background: #FE980F;
   bottom: 0;
