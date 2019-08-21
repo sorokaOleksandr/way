@@ -44,8 +44,5 @@ $this->params['breadcrumbs'][] = $this->title;
     <?php ActiveForm::end(); ?>
 
 </div>
-<div class="container ">
-    <a href="<?= \yii\helpers\Url::to(['site/register']) ?>"><button type="button" class="btn btn-primary btn-lg btn-block btn-success">Регистрация</button></a>
 
-</div>
 
