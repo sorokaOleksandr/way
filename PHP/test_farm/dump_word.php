@@ -1,6 +1,6 @@
 <?php
 
-// Имя загружаемого файла файла.
+// Имя загружаемого файла.
 $filename = "otchet_" . date('Ymd') . ".csv";
 
 header("Content-Disposition: attachment; filename=\"$filename\"");
@@ -23,7 +23,7 @@ or die('Запрос не выполнен!');
 $flag = false;
 
 while($flag !== ($row = $result->fetch_array())) {
-//Вывод данных столбцов
+//Вывод столбцов
     if($row == null){
         exit;
     }else{

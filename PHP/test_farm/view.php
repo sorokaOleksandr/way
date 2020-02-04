@@ -20,7 +20,6 @@
     </div>
 </div><br>
 
-
 <!--------   вывод меню в виде дерева ----->
 <div class="container" style="width: 50%; border: double 4px blue;">
     <form method="get" name="Tree1" class="treeHTML" class="razvernut">
@@ -38,19 +37,17 @@
 </div>
 <br>
 
-
 <!---- вывод подробной информации отдела --->
 <script src="js/conclusion.js"> </script>
 
-<!---- добавление нового елемента оргструктуры --->
+<!---- добавление нового отдела оргструктуры --->
 <script src="js/newElement.js"> </script>
 
-<!---- удаление елемента оргструктуры --->
+<!---- удаление отдела оргструктуры --->
 <script src="js/deleteElement.js"> </script>
 
-<!---- обновление елемента оргструктуры --->
+<!---- обновление отдела оргструктуры --->
 <script src="js/updateElement.js"> </script>
-
 
 </body>
 </html>

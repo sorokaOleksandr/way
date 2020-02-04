@@ -4,10 +4,9 @@ require_once ('db.php');
 
 if(isset($_GET)){
 
-    // Выбор актуальгого меню
+    // Выбор актуального меню
     function get_Org1($mysqli) {
 
-        //запрос к базе данных
         $sql = "SELECT * FROM struct_company";
         $result = $mysqli->query($sql);
         if(!$result) {
@@ -20,7 +19,7 @@ if(isset($_GET)){
             for($i = 0; $i < mysqli_num_rows($result);$i++) {
                 $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
 
-                //Формируем массив, где ключами являются адишники на родительские категории
+                //Формируем массив, где ключами являются ид на родительские категории
                 if(empty($arr_cat[$row['parent_id']])) {
                     $arr_cat[$row['parent_id']] = array();
                 }

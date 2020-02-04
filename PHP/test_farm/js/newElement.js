@@ -26,7 +26,7 @@ function save() {
         success: function () {
             // if (!res) alert('Ошибка!');
             $("form.fAdd").remove();
-            alert("Добавление нового елемента оргструктуры прошло успешно!");
+            alert("Добавление нового отдела оргструктуры прошло успешно!");
             window.location.reload();
         },
         error: function () {

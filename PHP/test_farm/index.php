@@ -7,7 +7,7 @@ $mysqli = db();
 
 // Функция получения массива каталога
 function get_Org($mysqli) {
-    //запрос к базе данных
+
     $sql = "SELECT * FROM struct_company";
     $result = $mysqli->query($sql);
     if(!$result) {
@@ -20,7 +20,7 @@ function get_Org($mysqli) {
         for($i = 0; $i < mysqli_num_rows($result);$i++) {
             $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
 
-            //Формируем массив, где ключами являются адишники на родительские категории
+            //Формируем массив, где ключами являются ид на родительские категории
             if(empty($arr_cat[$row['parent_id']])) {
                 $arr_cat[$row['parent_id']] = array();
             }
@@ -50,7 +50,7 @@ function view_Org($arr,$parent_id = 0) {
         echo  '<li><label><input class="name"  type="checkbox" id="'.$arr[$parent_id][$i]['id'] .'" value="'.$arr[$parent_id][$i]['id'].'">
         
          <a href="#" class="my" title="'.$arr[$parent_id][$i]['id'].'">'.'('.(string)$arr[$parent_id][$i]['id'] .')' .$arr[$parent_id][$i]['name'].'('.(string)$arr[$parent_id][$i]['parent_id'].')'.'</a></label>';
-        //рекурсия - проверяем нет ли дочерних категорий
+        // проверяем нет ли дочерних категорий
         view_Org($arr,$arr[$parent_id][$i]['id']);
         //die((string)$arr[$parent_id][$i]['id']);
 

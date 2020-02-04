@@ -29,7 +29,7 @@ function saveUpdate() {
         success: function () {
             //if (!res) alert('Ошибка!');
             $("form.fAdd").remove();
-            alert("обновление елемента оргструктуры прошло успешно!");
+            alert("обновление отдела оргструктуры прошло успешно!");
             window.location.reload();
         },
         error: function () {
