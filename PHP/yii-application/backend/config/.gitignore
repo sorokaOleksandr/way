@@ -1,0 +1,25 @@
+ < VirtualHost *: 80>
+         ServerName backend.test
+         DocumentRoot  " / path / to / yii-application / backend / web / "
+
+        < Directory "/ path / to / yii-application / backend / web /">
+             # используйте mod_rewrite для поддержки симпатичных URL
+            RewriteEngine в
+             # Если каталог или файл существует, используйте запрос непосредственно
+            RewriteCond  % {REQUEST_FILENAME}  ! -F
+            RewriteCond  % {REQUEST_FILENAME}  ! -D
+            # В противном случае перенаправить запрос в index.php
+            RewriteRule  .  index.php
+
+            # использовать index.php в качестве индексного файла
+            DirectoryIndex index.php
+
+            # ... другие настройки ...
+            # Apache 2.4
+            Требуется все предоставлено
+
+            # # Apache 2.2
+            # Порядок разрешить, запретить
+            # Разрешить из всех
+        </ Directory >
+    </ VirtualHost >
