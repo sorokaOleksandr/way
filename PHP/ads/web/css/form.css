@@ -1,0 +1,491 @@
+/*главная страница*/
+.well {
+    border: 2px solid #BABABA;
+    text-align: center;
+    border-radius: 8px 8px 8px 8px;
+    width: 47%;
+    padding: 1% 1% 1% 1%;
+    margin: 1% 1.5% 1% 1.5%;
+    display: block;
+    float: left;
+    animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+.well h3 {
+    width: auto;
+    text-align: center;
+}
+
+.well:link ~ h3 {
+    color: #BABABA;
+}
+
+.well:hover {
+    /*box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+
+    border: 2px solid #5CB85C;
+    text-decoration: none;
+    color: #369236;
+    background-color: white;
+
+}
+
+/* вывод всех обьявлений определенной категории */
+.ads-subcategory {
+    border: 2px solid #BABABA;
+    background-color: #F5F5F5;
+    border-radius: 5px 5px 5px 5px;
+    width: 98%;
+    margin: 0.5% 1% 0.5% 1%;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+    display: block;
+    float: left;
+}
+
+.ads-subcategory:link {
+    color: #337AB7;
+}
+
+.ads-subcategory h2 {
+    color: #2B2E20;
+}
+
+.ads-subcategory:hover {
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+    background-color: white;
+    border: 2px solid #5CB85C;
+    text-decoration: none;
+    color: black;
+}
+
+figure {
+    width: 30%; /* Ширина */
+    height: auto;
+    float: left; /* Выстраиваем элементы по горизонтали */
+    margin: 0 0 0 3.5%;
+    background: #9DEF96; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    padding: 0.8%; /* Поля */
+}
+
+figure:first-child {
+    margin-left: 0; /* Убираем отступ для первого элемента */
+}
+
+figure img {
+    width: 100%;
+}
+
+section {
+    margin: 0 3% 0 0;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+    width: 65%;
+    float: right;
+}
+
+section h2 {
+    font-size: 1.2em;
+    border-bottom: solid #BABABA 1px;
+    text-align: left;
+    width: 95%;
+    display: inline-block;
+    margin: 0.5% 5% 1% 0;
+    float: right
+}
+
+section h2:first-letter {
+    font-size: 1.7em;
+}
+
+section p {
+    font-size: 1em;
+    margin: 1% 0 2% 0;
+    padding-top: 7%;
+
+    color: black;
+}
+
+section h4 {
+    color: #3C763D;
+    width: 65%;
+    font-size: 1em;
+    margin: 1% 35% 2.5% 0;
+    display: block;
+    float: right;
+}
+
+.ads-subcategory span {
+    color: #777777;
+    vertical-align: text-bottom;
+    font-size: 0.9em;
+    margin: 2% 3% 0.5% 0;
+}
+
+.end-block {
+    clear: left;
+}
+
+/* подробный просмотр обьявления */
+.ads {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.ads {
+    background-color: white;
+    width: 98%;
+    margin: 0.5% 1% 0.5% 1%;
+    border: 2px solid #BABABA;
+    border-radius: 5px 5px 5px 5px;
+    padding: 0.5% 1.5% 0.5% 2%;
+    display: block;
+}
+
+.ads h3 {
+    width: auto;
+    margin: 1.4% 1% 2% 0;
+    text-decoration: underline;
+}
+
+.ads h3:first-letter {
+    font-size: 1.2em;
+}
+
+.ads h4 {
+    margin: 2% 0.5% 0 2%;
+    color: #5CB85C;
+}
+
+.ads p:first-letter {
+    font-size: 1.5em;
+}
+
+.ads p:first-child {
+    margin-left: 1%;
+}
+
+.ads p:nth-child(2n) {
+    text-align: justify;
+    text-indent: 1em;
+}
+
+.ads .badge {
+    margin-bottom: 5px;
+}
+
+.carusel {
+    border: 5px solid #BABABA;
+    border-radius: 3% 3% 3% 3%;
+    margin: 1%;
+    width: auto;
+    float: left;
+}
+
+.botLine span {
+    margin: 0 0 0.5% 1%;
+    color: #777777;
+}
+
+.glyphicon-user {
+    text-transform: capitalize;
+    /*word-spacing: 1px;*/
+}
+
+.name {
+    margin: auto;
+    background-position: right;
+}
+
+.botLine {
+    clear: left;
+}
+
+.submit {
+    margin-top: 4%;
+}
+
+/* форма подачи обьявления */
+.well-place {
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px solid #BABABA;
+    background-color: #F5F5F5;
+    border-radius: 8px 8px 8px 8px;
+    width: 95%;
+    padding: 15px 15px 15px 15px;
+    margin: 0.2% 2.5% 0.2% 2.5%;
+    display: block;
+    float: left;
+    animation: lightSpeedInLeft; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+.well-place div .glyphicon-ok {
+    font-size: 120%;
+    font-weight: 500;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+/* Форма Написать нам */
+.site-contact {
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px solid #BABABA;
+    background-color: #F5F5F5;
+    border-radius: 8px 8px 8px 8px;
+    width: 95%;
+    padding: 15px 15px 15px 15px;
+    margin: 0 2.5% 0 2.5%;
+    display: block;
+    float: left;
+    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+.site-contact p b {
+    color: #A94442;
+}
+
+/* Правила на сайте */
+.site-about {
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px solid #BABABA;
+    background-color: #F5F5F5;
+    border-radius: 8px 8px 8px 8px;
+    width: 100%;
+    padding: 5px 10px 10px 15px;
+    display: block;
+    float: left;
+    animation: flipInX; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+/* главная страница админ панели */
+.header-admin {
+    text-decoration: underline;
+}
+
+.container-admin {
+    background-color: white;
+    border: solid 1px green;
+    border-radius: 5px;
+    width: auto;
+    padding: 1%;
+    margin: 1%;
+}
+
+.container-admin a button {
+    margin: 1%;
+}
+
+/* Вывод не опубликованных обьявлений админ панели */
+.all-announcement {
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px solid #BABABA;
+    background-color: #F5F5F5;
+    font-size: 115%;
+    border-radius: 8px 8px 8px 8px;
+    width: 90%;
+    padding: 15px 15px 15px 15px;
+    margin: 2% 5% 0 5%;
+    display: block;
+    float: left;
+}
+
+.all-announcement .carusel {
+    /*float: left;*/
+    margin: 1% 5% 1% 5%;
+    width: auto;
+}
+
+.all-announcement section {
+    margin: 0 3% 0 0;
+    padding: 1% 1% 1% 1%;
+    width: auto;
+}
+
+.all-announcement article h4 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-bottom: solid #BABABA 1px;
+}
+
+.all-announcement b {
+    color: #FF7C73;
+}
+
+.all-announcement p {
+    margin-top: 0.5%;
+    border-bottom: solid #BABABA 1px;
+}
+
+/* страница фильтра */
+.announcement-search {
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px solid #BABABA;
+    background-color: #F5F5F5;
+    border-radius: 8px 8px 8px 8px;
+    width: 95%;
+    padding: 1% 1% 1% 1%;
+    margin: 0.2% 2.5% 0.2% 2.5%;
+    display: block;
+    float: left;
+    animation: backInUp; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+.announcement-search h2 {
+    margin-left: 2%;
+}
+
+.announcement-search .col-lg-12 {
+    margin-left: 0.5%;
+}
+
+.announcement-search div.required label.control-label:after {
+    content: " *";
+    color: white;
+}
+
+.announcement-search button {
+    margin: 0.5% 0.5% 0.5% 2.5%;
+}
+
+.announcement-search .price {
+    clear: left;
+    margin-left: 2.5%;
+}
+
+.announcement-search .price input {
+    padding-left: 2%;
+}
+
+/* страница результатов фильтра */
+.result-filter table {
+    border: 0px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+/*  страница результатов поиска */
+.result-search table {
+    border: 0px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+/* Пагинация */
+.pagination {
+    margin-left: 3%;
+}
+
+.pages {
+    margin: 0 0 0 0;
+}
+
+@media (max-width: 780px) {
+    .ads-subcategory section p {
+        display: none;
+    }
+
+    .announcement-search button {
+        margin: 0.5% 0.5% 0.5% 3%;
+    }
+
+    .announcement-search .price {
+        clear: left;
+        margin-left: 3%;
+    }
+
+    .announcement-search .price input {
+        padding-left: 2%;
+    }
+}
+
+@media (max-width: 580px) {
+    section h2:first-letter {
+        font-size: 1.4em;
+    }
+
+    section h2 {
+        font-size: 0.9em;
+    }
+
+    section h4 {
+        font-size: 0.9em;
+    }
+
+    section {
+        width: 55%;
+    }
+
+    figure {
+        width: 40%; /* Ширина */
+    }
+
+    .ads-subcategory span {
+        color: #777777;
+        font-size: 0.7em;
+        margin-top: 0.1%;
+    }
+}
+
+@media (max-width: 575px) {
+    .well {
+        width: 90%;
+        clear: left;
+        margin: 1% 5% 1% 5%;
+    }
+
+    .ads-subcategory {
+        width: 99%;
+        margin: 0.1% 0.1% 0.1% 0.1%;
+        padding: 0.1% 0.1% 0.1% 0.1%;
+
+    }
+
+    .ads {
+        width: 98%;
+        margin: 0.2% 1% 0.2% 1%;
+    }
+
+    section {
+        margin-top: 1%;
+        padding: 0.1% 0.1% 0.1% 0.1%;
+        width: 100%;
+        float: left;
+    }
+
+    figure {
+        width: 100%; /* Ширина */
+    }
+
+    section h2 {
+        padding-left: 1%;
+    }
+
+    section h4 {
+        padding-left: 1%;
+        margin: 1% 1% 0.4% 1%;
+        width: 98%;
+    }
+
+    .ads-subcategory span {
+        padding-left: 1%;
+        margin-top: 1px;
+    }
+
+    .announcement-search button {
+        margin: 0.5% 0.5% 0.5% 5%;
+    }
+
+    .announcement-search .price {
+        clear: left;
+        margin-left: 5%;
+    }
+
+    .announcement-search .price input {
+        padding-left: 2%;
+    }
+
+}
